@@ -47,7 +47,7 @@ export default {
   plugins: [
     {src: 'plugins/owl.js', ssr: false},
     {src: 'plugins/mixitup.js', ssr: false},
-    {src: 'plugins/vuelidate.js', ssr: false}
+    {src: 'plugins/vuelidate.js', ssr: false},
   ],
   /*
   ** Nuxt.js dev-modules
